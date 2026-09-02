@@ -38,24 +38,34 @@ Quand j'envoie un screenshot de graphique, ce fichier sert de référence pour a
 
 ---
 
-## 3. Volumes
+## 3. Bandes de Bollinger (BB)
+
+### BB Hautes Magiques CASH UT5min — prise de profit / revente Intraday
+
+- Paramètres des **BB magiques** : **(160 / 2.8)**.
+- Pour **revendre en Intraday** (clôture le jour même ou la nuit suivante), bien **attendre les BB Hautes Magiques en CASH, UT5min**, sur les deux indices américains (US).
+  - → Ne pas revendre trop tôt : la BB Haute Magique UT5min cash sert de zone de prise de profit / résistance dynamique à surveiller avant de déboucler une position acheteuse ID.
+
+---
+
+## 4. Volumes
 
 *(à compléter)*
 
 ---
 
-## 4. Patterns Chartistes
+## 5. Patterns Chartistes
 
 *(à compléter)*
 
 ---
 
-## 5. Money Management / Gestion du Risque
+## 6. Money Management / Gestion du Risque
 
 *(à compléter)*
 
 ---
 
-## 6. Divers / Non classé
+## 7. Divers / Non classé
 
 *(à compléter)*
