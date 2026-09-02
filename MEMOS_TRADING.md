@@ -23,6 +23,13 @@ Quand j'envoie un screenshot de graphique, ce fichier sert de référence pour a
 
 *(Règle symétrique probable à l'inverse pour un flux haussier — à confirmer par un futur memo.)*
 
+### Croisement MM20 / MM50 — renforcement de la pression directionnelle
+
+- Quand la **MM20 passe en dessous de la MM50**, cela indique une **pression baissière un peu plus forte** (renforcement du flux baissier).
+  - À combiner avec la règle MM50 UT5min ci-dessus : un croisement MM20 < MM50 sous la MM50 directrice renforce le biais vendeur ID.
+
+*(Règle symétrique probable à l'inverse : MM20 qui repasse au-dessus de la MM50 → pression haussière plus forte — à confirmer.)*
+
 ---
 
 ## 2. Supports / Résistances
