@@ -30,6 +30,11 @@ Quand j'envoie un screenshot de graphique, ce fichier sert de référence pour a
 
 *(Règle symétrique probable à l'inverse : MM20 qui repasse au-dessus de la MM50 → pression haussière plus forte — à confirmer.)*
 
+### Gap important à l'ouverture — MM7 UT15min garante du gap
+
+- Quand il y a un **gap important** à l'ouverture, on surveille la **MM7 en UT15min** / **Combo 2 minutes**.
+  - **MM7 UT15min = garante du gap** : tant que le prix reste du bon côté de cette MM7, le gap (et le flux qu'il initie) reste valide.
+
 ---
 
 ## 2. Supports / Résistances
